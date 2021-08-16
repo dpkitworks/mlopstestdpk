@@ -1,4 +1,4 @@
-# Introduction 
+# Introduction --
 Fully Automated end-to-end Training and Deployment of IRIS Classifer using Azure MLOps
 # Prerequisites
 1. Azure [Account] (https://azure.microsoft.com/en-in/free/search/?&ef_id=EAIaIQobChMIhIHs3_Ca7wIVI4ZLBR0yKQsDEAAYASAAEgLhFvD_BwE:G:s&OCID=AID2100054_SEM_EAIaIQobChMIhIHs3_Ca7wIVI4ZLBR0yKQsDEAAYASAAEgLhFvD_BwE:G:s)
